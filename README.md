@@ -1,6 +1,6 @@
 # Keisha Walker
 
-### Data Science • Machine Learning • Business Analytics
+### Data Science • Machine Learning • AI Automation
 
 I use Python, SQL, and data visualization to investigate business questions, evaluate predictive models, and translate analysis into practical recommendations. My work emphasizes data quality, reproducible methods, and clear communication of results.
 
@@ -27,6 +27,10 @@ Examines retail data quality, sales, profitability, and marketing performance th
 
 **Published materials:** business case study and original source-data package.
 
+## AI automation & agent workflows
+
+My applied AI interests include workflow automation, AI assistants grounded in business documentation, and agent workflows that connect tools and APIs. I am interested in projects that reduce repetitive work, support reporting, and improve access to operational knowledge, with clear evaluation criteria and human review.
+
 ## Working approach
 
 Start with the business question. Validate the data. Establish a baseline. Evaluate results against the intended use. Deliver clear findings, documented assumptions, and practical next steps.
@@ -37,4 +41,4 @@ Bachelor's degree in Data Science — in progress.
 
 ## Contract interests
 
-Predictive analytics, Python and SQL analysis, data quality review, model evaluation, and business reporting. Open to clearly scoped remote projects and ongoing independent-contractor engagements.
+Predictive analytics, Python and SQL analysis, data quality review, model evaluation, business reporting, AI workflow automation, and AI assistant or agent projects. Open to clearly scoped remote projects and ongoing independent-contractor engagements.
