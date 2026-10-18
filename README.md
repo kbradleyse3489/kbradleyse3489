@@ -2,34 +2,39 @@
 
 ### Data Science • Machine Learning • Business Analytics
 
-I am pursuing a bachelor's degree in Data Science and building a portfolio focused on predictive modeling, careful model evaluation, data quality, and clear business recommendations.
+I use Python, SQL, and data visualization to investigate business questions, evaluate predictive models, and translate analysis into practical recommendations. My work emphasizes data quality, reproducible methods, and clear communication of results.
 
-Based in Colorado, USA. Open to remote freelance, independent-contractor, and 1099 project opportunities.
+**Available for remote freelance, independent-contractor, and 1099 opportunities across the U.S. | Colorado-based**
 
-## Featured projects
+## Project capabilities
+
+- **Predictive analytics:** classification, baseline comparisons, model evaluation, and interpretation.
+- **Data preparation and quality:** cleaning, validation, exploratory analysis, and documented assumptions.
+- **Business analytics:** sales, profitability, marketing performance, and decision-focused reporting.
+- **Technical communication:** reproducible project packages, visualizations, and concise business case studies.
+
+## Selected work
 
 ### [Marketing Conversion Prediction](https://github.com/kbradleyse3489/marketing-conversion-prediction)
-A Python machine learning study using the real UCI Bank Marketing dataset. Compares logistic regression and random forest models using chronological evaluation, with attention to target leakage, class imbalance, and changes in subscription rates over time.
+Evaluates bank marketing subscription predictions using the UCI Bank Marketing dataset. Compares logistic regression and random forest models, excludes target-leaking information, and examines performance across chronological splits and changing subscription rates.
 
-**Explore:** code preview, complete downloadable project package, evaluation charts, dataset attribution, and case study. The documentation explains the model's limited predictive performance and the repeated holdout evaluation; this is a learning project, not a production marketing system.
+**Deliverables:** Python code, downloadable project package, evaluation charts, dataset documentation, and a business case study.
 
 **Tools:** Python, pandas, scikit-learn, Jupyter, Matplotlib.
 
 ### [Nova Retail E-commerce Analytics](https://github.com/kbradleyse3489/nova-retail-ecommerce-analytics)
-A fictional retail case study using clearly labeled synthetic data to explore data quality, sales, profitability, and marketing performance. The case study describes a Python, SQL, and Tableau workflow.
+Examines retail data quality, sales, profitability, and marketing performance through an e-commerce case study using synthetic data. The case study presents a Python, SQL, and Tableau workflow and business recommendations.
 
-**Explore:** case study and original source-data package. Finished analysis scripts and the Tableau workbook are not yet included, so this repository currently serves as a case-study archive rather than a fully reproducible code release.
+**Published materials:** business case study and original source-data package.
 
-## How I approach projects
+## Working approach
 
-- Define the business question and what data is available at prediction time.
-- Check data quality and document assumptions.
-- Compare against simple baselines and use evaluation methods suited to the problem.
-- Explain uncertainty, limitations, and practical next steps.
-- Use AI assistance transparently while developing the ability to explain and reproduce the work.
+Start with the business question. Validate the data. Establish a baseline. Evaluate results against the intended use. Deliver clear findings, documented assumptions, and practical next steps.
 
-## Current learning focus
+## Education
 
-Supervised learning, statistics, forecasting, explainable models, and reproducible machine learning workflows. Future projects will extend into applied AI and deployment as those skills are demonstrated.
+Bachelor's degree in Data Science — in progress.
 
-These repositories contain educational portfolio work. They do not represent paid client engagements or verified client business outcomes.
+## Contract interests
+
+Predictive analytics, Python and SQL analysis, data quality review, model evaluation, and business reporting. Open to clearly scoped remote projects and ongoing independent-contractor engagements.
