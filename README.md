@@ -27,6 +27,15 @@ Examines retail data quality, sales, profitability, and marketing performance th
 
 **Published materials:** business case study and original source-data package.
 
+### [AI Support Ticket Triage & Quality Review](https://github.com/kbradleyse3489/ai-support-ticket-triage)
+Built a supervised banking-support intent classifier with a Streamlit inspection interface, confidence-based review policy, extractive summaries, and reproducible evaluation using the public BANKING77 benchmark. The app makes suggestions for human review; it does not send or resolve real tickets.
+
+**Reported benchmark:** 0.9033 intent macro-F1 versus 0.8766 baseline. These are test-set results on banking intents, not real IT service-desk performance.
+
+**Published deliverables:** [case study](https://github.com/kbradleyse3489/ai-support-ticket-triage/blob/main/docs/Keisha_Walker_AI_Support_Ticket_Triage_Case_Study.pdf), [Streamlit app source](https://github.com/kbradleyse3489/ai-support-ticket-triage/blob/main/app.py), [notebook](https://github.com/kbradleyse3489/ai-support-ticket-triage/blob/main/notebooks/01_support_ticket_triage.ipynb), model card, diagnostics, and 26 automated tests including Streamlit AppTest.
+
+**Tools:** Python, pandas, scikit-learn, Streamlit, pytest.
+
 ## AI automation & agent workflows
 
 My applied AI interests include workflow automation, AI assistants grounded in business documentation, and agent workflows that connect tools and APIs. I am interested in projects that reduce repetitive work, support reporting, and improve access to operational knowledge, with clear evaluation criteria and human review.
