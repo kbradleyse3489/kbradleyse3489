@@ -36,6 +36,15 @@ Built a supervised banking-support intent classifier with a Streamlit inspection
 
 **Tools:** Python, pandas, scikit-learn, Streamlit, pytest.
 
+### [Revenue Signals: ATLAS — Delivery Intelligence Lab](https://github.com/kbradleyse3489/revenue-signals-atlas)
+Analyzes historical e-commerce delivery performance using the public Olist dataset (2016–2018). Combines Python, pandas, and SQLite SQL for reproducible order-level state metrics with an interactive dashboard exploring delivery timeliness, geography, freight costs, monthly trends, and seller-to-customer corridors. The analysis helps identify areas for operational review and further investigation.
+
+**Reported findings:** 96,470 eligible delivered orders, including 7,826 late deliveries (8.11%), and 412 observed seller-to-customer state pairs in item-level corridor data. Results are historical and descriptive, not predictive or causal. Improvement scenarios are hypothetical.
+
+**Published deliverables:** [Live interactive dashboard](https://keishawalker.tech/atlas/), [GitHub repository](https://github.com/kbradleyse3489/revenue-signals-atlas), and [reproducible SQL/Python metrics script](https://github.com/kbradleyse3489/revenue-signals-atlas/blob/main/analysis/rebuild_from_olist.py).
+
+**Tools:** Python, pandas, SQLite/SQL, HTML, CSS, JavaScript.
+
 ## AI automation & agent workflows
 
 My applied AI interests include workflow automation, AI assistants grounded in business documentation, and agent workflows that connect tools and APIs. I am interested in projects that reduce repetitive work, support reporting, and improve access to operational knowledge, with clear evaluation criteria and human review.
